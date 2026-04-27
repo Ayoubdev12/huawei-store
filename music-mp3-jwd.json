@@ -1,0 +1,27 @@
+{
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+  "admob_banner": "ca-app-pub-3940256099942544/00",
+  "admob_interstitial": "ca-app-pub-3940256099942544/00",
+
+  "applovin_banner_id": "13482be8f77fc7",
+  "applovin_interstitial_id": "37c0fd7e299a3be",
+  "max": true,
+
+  "unity_game_id": "5416428",
+  "unity_interstitial_id": "interstital",
+  "unity_show_on_launch": true,
+  "unity_inter_frequency": 3,
+  "unity_test_mode": true,
+
+  "yandex_interstitial_id": "demo-interstitial-yandex",
+  "yandex_app_open_id": "demo-appopenad-yandex",
+  "yandex_show_open_ad": true,
+
+  "show_download": true,
+
+  "Ads_Explanation": " admob | facebook | applovin | unity | yandex ",
+
+  "Ads": "yandex"
+}
