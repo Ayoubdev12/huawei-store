@@ -1,11 +1,14 @@
 {
-  "isEnabled": false,
-  "interstitialAdUnitId": "R-M-16016206-1",
-  "appOpenAdUnitId": "R-M-16016206-2",
+  "isEnabled": true,
+  "interstitialAdUnitId": "R-M-15616618-1",
+  "appOpenAdUnitId": "R-M-15616618-2",
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://hdtodayz.hair"
+  "homeUrl": "https://hdtodayz.to/home",
+  "allowedBaseUrl": "https://hdtodayz.to/",
+  "moviesUrl": "https://hdtodayz.hair/category/movies/",
+  "tvSeriesUrl": "https://hdtodayz.hair/category/tv-series/"
 }
