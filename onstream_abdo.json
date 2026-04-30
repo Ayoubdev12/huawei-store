@@ -7,8 +7,8 @@
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://hdtodayz.to/home",
-  "allowedBaseUrl": "https://hdtodayz.to/",
+  "homeUrl": "https://hdtodayz.hair/",
+  "allowedBaseUrl": "https://hdtodayz.hair/",
   "moviesUrl": "https://hdtodayz.hair/category/movies/",
   "tvSeriesUrl": "https://hdtodayz.hair/category/tv-series/"
 }
