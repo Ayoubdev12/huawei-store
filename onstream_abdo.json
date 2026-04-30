@@ -1,0 +1,11 @@
+{
+  "isEnabled": true,
+  "interstitialAdUnitId": "R-M-15616618-1",
+  "appOpenAdUnitId": "R-M-15616618-2",
+  "interstitialAdInterval": 60,
+  "showAdOnMovieDetails": true,
+  "showAdOnSearch": true,
+  "showAdOnNavigation": true,
+
+  "homeUrl": "https://hdtodayz.hair"
+}
