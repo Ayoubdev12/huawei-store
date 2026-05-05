@@ -1,0 +1,14 @@
+{
+  "isEnabled": false,
+  "interstitialAdUnitId": "R-M-16016206-1",
+  "appOpenAdUnitId": "R-M-16016206-2",
+  "interstitialAdInterval": 60,
+  "showAdOnMovieDetails": true,
+  "showAdOnSearch": true,
+  "showAdOnNavigation": true,
+
+  "homeUrl": "https://hdtodayz.hair/",
+  "allowedBaseUrl": "https://hdtodayz.hair/",
+  "moviesUrl": "https://hdtodayz.hair/category/movies/",
+  "tvSeriesUrl": "https://hdtodayz.hair/category/tv-series/"
+}
