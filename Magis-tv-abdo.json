@@ -8,7 +8,7 @@
   "showAdOnNavigation": true,
 
   "homeUrl": "https://www.azmovies.net/",
-  "allowedBaseUrl": "https://hdtodayz.hair/",
+  "allowedBaseUrl": "https://www.azmovies.net/",
   "moviesUrl": "https://hdtodayz.hair/category/movies/",
   "tvSeriesUrl": "https://hdtodayz.hair/category/tv-series/"
 }
