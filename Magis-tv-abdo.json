@@ -7,8 +7,8 @@
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://movies-lib.com/latest-movies/",
-  "allowedBaseUrl": "https://movies-lib.com/latest-movies/",
+  "homeUrl": "https://hdtodayz.hair/",
+  "allowedBaseUrl": "https://hdtodayz.hair/",
   "moviesUrl": "https://hdtodayz.hair/category/movies/",
   "tvSeriesUrl": "https://hdtodayz.hair/category/tv-series/"
 }
