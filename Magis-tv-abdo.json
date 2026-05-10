@@ -7,8 +7,8 @@
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://1moviesz.to/genre/action",
-  "allowedBaseUrl": "https://1moviesz.to/",
-  "moviesUrl": "https://1moviesz.to/top-imdb",
-  "tvSeriesUrl": "https://1moviesz.to/tv"
+ "homeUrl": "https://tinyzonetv.app/movies/",
+  "allowedBaseUrl": "https://tinyzonetv.app/tv-series/",
+  "moviesUrl": "https://tinyzonetv.app/movies/",
+  "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/"
 }
