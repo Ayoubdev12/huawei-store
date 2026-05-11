@@ -10,10 +10,10 @@
   "max": true,
 
   "unity_game_id": "5416428",
-  "unity_interstitial_id": "interstital",
+  "unity_interstitial_id": "INTER",
   "unity_show_on_launch": true,
   "unity_inter_frequency": 3,
-  "unity_test_mode": true,
+  "unity_test_mode": false,
 
   "yandex_interstitial_id": "demo-interstitial-yandex",
   "yandex_app_open_id": "demo-appopenad-yandex",
@@ -23,5 +23,5 @@
 
   "Ads_Explanation": " admob | facebook | applovin | unity | yandex ",
 
-  "Ads": "admob"
+  "Ads": "unity"
 }
