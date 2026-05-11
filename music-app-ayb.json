@@ -17,7 +17,7 @@
 
   "yandex_interstitial_id": "demo-interstitial-yandex",
   "yandex_app_open_id": "demo-appopenad-yandex",
-  "yandex_show_open_ad": true,
+  "yandex_show_open_ad": false,
 
   "show_download": true,
 
