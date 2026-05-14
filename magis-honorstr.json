@@ -1,7 +1,7 @@
 {
   "adProvider": "yandex",
 
-  "isEnabled": true,
+  "isEnabled": false,
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
