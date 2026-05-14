@@ -1,0 +1,14 @@
+{
+  "isEnabled": false,
+  "interstitialAdUnitId": "R-M-16016206-1",
+  "appOpenAdUnitId": "R-M-16016206-2",
+  "interstitialAdInterval": 60,
+  "showAdOnMovieDetails": true,
+  "showAdOnSearch": true,
+  "showAdOnNavigation": true,
+
+  "homeUrl": "https://tinyzonetv.app/movies/",
+  "allowedBaseUrl": "https://tinyzonetv.app/tv-series/",
+  "moviesUrl": "https://tinyzonetv.app/movies/",
+  "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/"
+}
