@@ -1,15 +1,14 @@
 {
   "adProvider": "yandex",
-
   "isEnabled": false,
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
-  
+
   "unityGameId": "5416428",
   "unityInterstitialPlacementId": "INTER",
-  "unityTestMode": true
+  "unityTestMode": true,
 
   "interstitialAdUnitId": "demo-interstitial-yandex",
   "appOpenAdUnitId": "demo-appopenad-yandex",
