@@ -1,5 +1,5 @@
 {
-  "adProvider": "yandex",
+  "adProvider": "unity",
   "isEnabled": true
 ,
   "interstitialAdInterval": 60,
