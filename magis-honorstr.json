@@ -9,7 +9,7 @@
 
   "unityGameId": "5416428",
   "unityInterstitialPlacementId": "INTER",
-  "unityTestMode": true,
+  "unityTestMode": false,
 
   "interstitialAdUnitId": "demo-interstitial-yandex",
   "appOpenAdUnitId": "demo-appopenad-yandex",
