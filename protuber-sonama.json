@@ -1,0 +1,38 @@
+{
+  "ads_enabled": true,
+  "ad_test_mode": true,
+  "ad_provider": "yandex",
+
+  "banner_enabled": true,
+  "native_enabled": true,
+  "rewarded_enabled": true,
+  "interstitial_enabled": true,
+  "app_open_enabled": true,
+
+  "home_banner_every": 3,
+  "search_native_every": 5,
+  "player_rewarded_enabled": true,
+  "player_banner_enabled": true,
+  "watchlist_banner_enabled": true,
+
+  "app_open_cooldown_minutes": 30,
+  "interstitial_cooldown_seconds": 90,
+  "max_ads_per_session": 8,
+
+  "navigation_actions_for_ad": 3,
+  "video_opens_for_ad": 2,
+  "navigation_debounce_seconds": 4,
+
+  "yandex_app_open_ad_unit_id": "YOUR_YANDEX_APP_OPEN_UNIT_ID",
+  "yandex_interstitial_ad_unit_id": "YOUR_YANDEX_INTERSTITIAL_UNIT_ID",
+  "yandex_rewarded_ad_unit_id": "YOUR_YANDEX_REWARDED_UNIT_ID",
+  "yandex_banner_ad_unit_id": "YOUR_YANDEX_BANNER_UNIT_ID",
+  "yandex_native_ad_unit_id": "YOUR_YANDEX_NATIVE_UNIT_ID",
+
+  "admob_app_open_android": "",
+  "admob_app_open_ios": "",
+  "admob_interstitial_android": "",
+  "admob_interstitial_ios": "",
+
+  "privacy_policy_url": "https://sites.google.com/view/playmate-tube/home"
+}
