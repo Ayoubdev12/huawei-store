@@ -6,13 +6,13 @@
   "banner_enabled": true,
   "native_enabled": true,
   "rewarded_enabled": true,
-  "interstitial_enabled": true,
+  "interstitial_enabled": false,
   "app_open_enabled": true,
 
   "home_banner_every": 3,
   "search_native_every": 5,
   "player_rewarded_enabled": true,
-  "player_banner_enabled": true,
+  "player_banner_enabled": false,
   "watchlist_banner_enabled": true,
 
   "app_open_cooldown_minutes": 30,
@@ -25,14 +25,14 @@
 
   "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
   "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
-  "yandex_rewarded_ad_unit_id": "demo-rewarded-yandex",
+  "yandex_rewarded_ad_unit_id": "",
   "yandex_banner_ad_unit_id": "demo-banner-yandex",
-  "yandex_native_ad_unit_id": "demo-native-app-yandex",
+  "yandex_native_ad_unit_id": "",
 
   "admob_app_open_android": "",
   "admob_app_open_ios": "",
   "admob_interstitial_android": "",
   "admob_interstitial_ios": "",
 
-  "privacy_policy_url": "https://sites.google.com/view/com-genshinhonkai-guidepro/accueil"
+  "privacy_policy_url": "https://sites.google.com/view/playmate-tube/home"
 }
