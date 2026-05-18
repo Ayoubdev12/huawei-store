@@ -1,7 +1,6 @@
 {
   "adProvider": "unity",
-  "isEnabled": true
-,
+  "isEnabled": true,
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
