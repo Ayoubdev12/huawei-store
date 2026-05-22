@@ -7,8 +7,8 @@
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
- "homeUrl": "https://tinyzonetv.app/movies/",
-  "allowedBaseUrl": "https://tinyzonetv.app/tv-series/",
-  "moviesUrl": "https://tinyzonetv.app/movies/",
-  "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/"
+ "homeUrl": "https://hdtodayz.hair/",
+  "allowedBaseUrl": "https://hdtodayz.hair/",
+  "moviesUrl": "https://hdtodayz.hair/",
+  "tvSeriesUrl": "https://hdtodayz.hair/"
 }
