@@ -7,8 +7,8 @@
   "showAdOnNavigation": true,
 
   "unityGameId": "5416428",
-  "unityInterstitialPlacementId": "INTER",
-  "unityTestMode": true,
+  "unityInterstitialPlacementId": "_Interstitial_Android",
+  "unityTestMode": false,
 
   "interstitialAdUnitId": "demo-interstitial-yandex",
   "appOpenAdUnitId": "demo-appopenad-yandex",
