@@ -1,27 +1,27 @@
 {
-  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "ads_enabled": false,
+  "ad_test_mode": false,
+  "provider": "yandex",
+  
+  "download_buttons_enabled": false,
+  
+  "navigation_actions_for_ad": 4,
+  "video_opens_for_ad": 2,
+  "navigation_debounce_seconds": 3,
+  "cooldown": 60,
 
-  "admob_banner": "ca-app-pub-3940256099942544/00",
-  "admob_interstitial": "ca-app-pub-3940256099942544/00",
+  "score_video_open": 1.0,
+  "score_video_exit": 1.0,
+  "score_navigation": 0.5,
+  "max_ads_per_session": 5,
 
-  "applovin_banner_id": "13482be8f77fc7",
-  "applovin_interstitial_id": "37c0fd7e299a3be",
-  "max": true,
+  "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
+  "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
+  "admob_interstitial_android": "ca-app-pub-3940256099942544/1033173712",
+  "admob_interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
 
-  "unity_game_id": "5416428",
-  "unity_interstitial_id": "interstital",
-  "unity_show_on_launch": true,
-  "unity_inter_frequency": 3,
-  "unity_test_mode": true,
+  "yandex_app_open_ad_unit_id": "R-M-19103738-3",
+  "yandex_interstitial_ad_unit_id": "R-M-19103738-2",
 
-  "yandex_interstitial_id": "demo-interstitial-yandex",
-  "yandex_app_open_id": "demo-appopenad-yandex",
-  "yandex_show_open_ad": true,
-
-  "show_download": true,
-
-  "Ads_Explanation": " admob | facebook | applovin | unity | yandex ",
-
-  "Ads": "admob"
+  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
 }
