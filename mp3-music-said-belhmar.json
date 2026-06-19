@@ -3,7 +3,7 @@
   "ad_test_mode": false,
   "provider": "yandex",
   
-  "download_buttons_enabled": false,
+  "download_buttons_enabled": true,
   
   "navigation_actions_for_ad": 4,
   "video_opens_for_ad": 2,
