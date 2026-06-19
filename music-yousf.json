@@ -29,6 +29,6 @@
   "show_download": true,
 
   "Ads_Explanation": "admob | facebook | applovin | unity | yandex | huawei",
-  "show_ads": true,
+  "show_ads": false,
   "Ads": "yandex"
 }
