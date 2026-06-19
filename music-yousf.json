@@ -15,8 +15,10 @@
   "unity_inter_frequency": 3,
   "unity_test_mode": true,
 
+  "yandex_banner_id": "demo-banner-yandex",
   "yandex_interstitial_id": "demo-interstitial-yandex",
   "yandex_app_open_id": "demo-appopenad-yandex",
+  "yandex_reward_id": "demo-rewarded-yandex",
   "yandex_show_open_ad": true,
 
   "huawei_banner_id": "testw6vs28auh3",
