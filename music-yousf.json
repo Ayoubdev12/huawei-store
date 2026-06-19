@@ -19,14 +19,14 @@
   "yandex_app_open_id": "demo-appopenad-yandex",
   "yandex_show_open_ad": true,
 
-  "huawei_banner_id": "your-banner-id",
-  "huawei_interstitial_id": "your-interstitial-id",
-  "huawei_reward_id": "your-reward-id",
-  "huawei_enabled": false,
+  "huawei_banner_id": "testw6vs28auh3",
+  "huawei_interstitial_id": "testb4znbuh3n2",
+  "huawei_reward_id": "testx9dtjwj8hp",
+  "huawei_enabled": true,
 
   "show_download": true,
 
   "Ads_Explanation": " admob | facebook | applovin | unity | yandex | huawei ",
 
-  "Ads": "yandex"
+  "Ads": "huawei"
 }
