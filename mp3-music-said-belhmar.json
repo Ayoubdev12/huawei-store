@@ -8,7 +8,7 @@
 
   "show_on_search_click": true,
   "show_on_library_click": true,
-  "show_on_download_click": false,
+  "show_on_download_click": true,
   "show_on_video_open": true,
 
   "video_opens_for_ad": 2,
