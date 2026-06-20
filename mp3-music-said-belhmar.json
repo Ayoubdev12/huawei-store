@@ -5,10 +5,10 @@
   
   "download_buttons_enabled": true,
   
-  "navigation_actions_for_ad": 4,
-  "video_opens_for_ad": 2,
+  "navigation_actions_for_ad": 2,
+  "video_opens_for_ad": 1,
   "navigation_debounce_seconds": 3,
-  "cooldown": 20,
+  "cooldown": 30,
 
   "score_video_open": 1.0,
   "score_video_exit": 1.0,
