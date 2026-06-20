@@ -3,7 +3,7 @@
   "ad_test_mode": false,
   "provider": "yandex",
 
-  "app_open_enabled": false,
+  "app_open_enabled": true,
   "interstitial_enabled": true,
 
   "show_on_search_click": true,
