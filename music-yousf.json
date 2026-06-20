@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ad_test_mode": false,
   "provider": "yandex",
 
