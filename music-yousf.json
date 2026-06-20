@@ -15,8 +15,8 @@
   "max_ads_per_session": 5,
   "cooldown": 60,
 
-  "yandex_app_open_ad_unit_id": "R-M-19471277-2",
-  "yandex_interstitial_ad_unit_id": "R-M-19471277-1",
+  "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
+  "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
 
   "admob_app_open_android": "",
   "admob_app_open_ios": "",
