@@ -13,11 +13,16 @@
 
   "video_opens_for_ad": 2,
   "max_ads_per_session": 5,
-  "cooldown": 30,
+  "cooldown": 60,
 
   "yandex_app_open_ad_unit_id": "R-M-19471277-2",
   "yandex_interstitial_ad_unit_id": "R-M-19471277-1",
-  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home",
 
-  "download_buttons_enabled": true
+  "admob_app_open_android": "",
+  "admob_app_open_ios": "",
+  "admob_interstitial_android": "",
+  "admob_interstitial_ios": "",
+
+  "download_buttons_enabled": true,
+  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
 }
