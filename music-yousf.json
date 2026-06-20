@@ -1,34 +1,28 @@
 {
-  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "ads_enabled": false,
+  "ad_test_mode": false,
+  "provider": "yandex",
 
-  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "app_open_enabled": true,
+  "interstitial_enabled": true,
 
-  "applovin_banner_id": "13482be8f77fc7",
-  "applovin_interstitial_id": "37c0fd7e299a3be",
-  "max": false,
+  "show_on_search_click": true,
+  "show_on_library_click": true,
+  "show_on_download_click": true,
+  "show_on_video_open": true,
 
-  "unity_game_id": "5416428",
-  "unity_interstitial_id": "Interstitial_Android",
-  "unity_show_on_launch": true,
-  "unity_inter_frequency": 3,
-  "unity_test_mode": true,
+  "video_opens_for_ad": 2,
+  "max_ads_per_session": 5,
+  "cooldown": 60,
 
-  "yandex_banner_id": "demo-banner-yandex",
-  "yandex_interstitial_id": "demo-interstitial-yandex",
-  "yandex_app_open_id": "demo-appopenad-yandex",
-  "yandex_reward_id": "demo-rewarded-yandex",
-  "yandex_show_open_ad": true,
+  "yandex_app_open_ad_unit_id": "R-M-19471277-2",
+  "yandex_interstitial_ad_unit_id": "R-M-19471277-1",
 
-  "huawei_banner_id": "testw6vs28auh3",
-  "huawei_interstitial_id": "testb4znbuh3n2",
-  "huawei_reward_id": "testx9dtjwj8hp",
-  "huawei_enabled": true,
+  "admob_app_open_android": "",
+  "admob_app_open_ios": "",
+  "admob_interstitial_android": "",
+  "admob_interstitial_ios": "",
 
-  "show_download": true,
-
-  "Ads_Explanation": "admob | facebook | applovin | unity | yandex | huawei",
-  "show_ads": false,
-  "Ads": "yandex"
+  "download_buttons_enabled": true,
+  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
 }
