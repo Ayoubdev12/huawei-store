@@ -2,27 +2,25 @@
   "ads_enabled": true,
   "ad_test_mode": false,
   "provider": "yandex",
+  
+  "download_buttons_enabled": true,
+  
+  "navigation_actions_for_ad": 2,
+  "video_opens_for_ad": 1,
+  "navigation_debounce_seconds": 3,
+  "cooldown": 30,
 
-  "app_open_enabled": true,
-  "interstitial_enabled": true,
-
-  "show_on_search_click": true,
-  "show_on_library_click": true,
-  "show_on_download_click": true,
-  "show_on_video_open": true,
-
-  "video_opens_for_ad": 2,
+  "score_video_open": 1.0,
+  "score_video_exit": 1.0,
+  "score_navigation": 0.5,
   "max_ads_per_session": 5,
-  "cooldown": 60,
+
+  "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
+  "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
+  "admob_interstitial_android": "ca-app-pub-3940256099942544/1033173712",
+  "admob_interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
 
   "yandex_app_open_ad_unit_id": "R-M-19471277-2",
   "yandex_interstitial_ad_unit_id": "R-M-19471277-1",
 
-  "admob_app_open_android": "",
-  "admob_app_open_ios": "",
-  "admob_interstitial_android": "",
-  "admob_interstitial_ios": "",
-
-  "download_buttons_enabled": true,
   "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
-}
