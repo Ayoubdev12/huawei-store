@@ -7,7 +7,7 @@
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://tinyzonetv.app/movies/",
+  "homeUrl": "https://google.com",
   "allowedBaseUrl": "https://tinyzonetv.app/tv-series/",
   "moviesUrl": "https://tinyzonetv.app/movies/",
   "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/"
