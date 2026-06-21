@@ -1,7 +1,7 @@
 {
   "isEnabled": true,
   "interstitialAdUnitId": "R-M-16778567-1",
-  "appOpenAdUnitId": "R-M-16778567-2",
+  "appOpenAdUnitId": "demo-appopenad-yandex",
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
