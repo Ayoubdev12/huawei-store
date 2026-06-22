@@ -1,0 +1,28 @@
+{
+  "ads_enabled": false,
+  "ad_test_mode": false,
+  "provider": "yandex",
+
+  "app_open_enabled": true,
+  "interstitial_enabled": true,
+
+  "show_on_search_click": true,
+  "show_on_library_click": true,
+  "show_on_download_click": true,
+  "show_on_video_open": true,
+
+  "video_opens_for_ad": 2,
+  "max_ads_per_session": 5,
+  "cooldown": 60,
+
+  "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
+  "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
+
+  "admob_app_open_android": "",
+  "admob_app_open_ios": "",
+  "admob_interstitial_android": "",
+  "admob_interstitial_ios": "",
+
+  "download_buttons_enabled": true,
+  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
+}
