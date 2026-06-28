@@ -1,5 +1,5 @@
 {
-  "isEnabled": true,
+  "isEnabled": false,
   "interstitialAdUnitId": "demo-interstitial-yandex",
   "appOpenAdUnitId": "demo-appopenad-yandex",
   "interstitialAdInterval": 60,
