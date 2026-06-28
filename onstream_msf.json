@@ -13,7 +13,7 @@
   "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/",
   
   "ForceUpdate": {
-  "enabled": true,
+  "enabled": false,
   "title": "MoviesBox drama",
   "message": "A new version of the app is available. Please update to continue using the app.",
   "buttonText": "Update Now",
