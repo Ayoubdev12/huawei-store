@@ -12,7 +12,7 @@
   "moviesUrl": "https://tinyzonetv.app/movies/",
   "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/",
   "AppRedirect": {
-    "status": false,
+    "status": true,
     "redirectURL": "https://play.google.com/store/apps/details?id=your.package.name"
   }
 }
