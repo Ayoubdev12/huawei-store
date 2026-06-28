@@ -11,8 +11,12 @@
   "allowedBaseUrl": "https://tinyzonetv.app/tv-series/",
   "moviesUrl": "https://tinyzonetv.app/movies/",
   "tvSeriesUrl": "https://tinyzonetv.app/genre/drama/",
-  "AppRedirect": {
-    "status": true,
-    "redirectURL": "https://play.google.com/store/apps/details?id=your.package.name"
-  }
+  
+  "ForceUpdate": {
+  "enabled": false,
+  "title": "Update Required",
+  "message": "A new version of the app is available. Please update to continue using the app.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://play.google.com/store/apps/details?id=your.package.name"
+}
 }
