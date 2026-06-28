@@ -14,7 +14,7 @@
   
   "ForceUpdate": {
   "enabled": true,
-  "title": "Update Required",
+  "title": "MoviesBox drama",
   "message": "A new version of the app is available. Please update to continue using the app.",
   "buttonText": "Update Now",
   "updateUrl": "https://appgallery.huawei.com/app/C117745819"
