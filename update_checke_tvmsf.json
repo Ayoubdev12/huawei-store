@@ -1,0 +1,9 @@
+{
+  "ForceUpdate": {
+    "enabled": false,
+    "title": "Update Required",
+    "message": "A new version of the app is available. Please update to continue using the app.",
+    "buttonText": "Update Now",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.networkutilityscan.wifiscan"
+  }
+}
