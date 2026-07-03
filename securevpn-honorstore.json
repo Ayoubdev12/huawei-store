@@ -1,0 +1,174 @@
+{
+  "VpnController": {
+    "VpnUserName": "ncpjohanechannel@namecheap",
+    "VpnPassword": "FtYjz7i6Yd",
+    "VpnList": [
+      {
+        "vpnName": "Andorra - Andorra la Vella",
+        "vpnIso": "AD",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "UAE - Dubai",
+        "vpnIso": "AE",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AE-Dubai-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Albania - Tirana",
+        "vpnIso": "AL",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AL-Tirana-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Armenia - Yerevan",
+        "vpnIso": "AM",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "Argentina - Buenos Aires",
+        "vpnIso": "AR",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AR-Buenos%20Aires-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Austria - Vienna",
+        "vpnIso": "AT",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AT-Vienna-TCP.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "Australia - Sydney",
+        "vpnIso": "AU",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AU-Sydney-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Belgium - Brussels",
+        "vpnIso": "BE",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-BE-Brussels-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Brazil - Sao Paulo",
+        "vpnIso": "BR",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-BR-Sao%20Paulo-TCP.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "Canada - Toronto",
+        "vpnIso": "CA",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-CA-Toronto-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Switzerland - Zurich",
+        "vpnIso": "CH",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-CH-Zurich-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Germany - Frankfurt",
+        "vpnIso": "DE",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-DE-Frankfurt-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Spain - Madrid",
+        "vpnIso": "ES",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-ES-Madrid-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "France - Paris",
+        "vpnIso": "FR",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-FR-Paris-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "United Kingdom - London",
+        "vpnIso": "GB",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-GB-London-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "India - Mumbai",
+        "vpnIso": "IN",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-IN-Mumbai-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Italy - Milan",
+        "vpnIso": "IT",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-IT-Milan-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Japan - Tokyo",
+        "vpnIso": "JP",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-JP-Tokyo-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Netherlands - Amsterdam",
+        "vpnIso": "NL",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-NL-Amsterdam-TCP.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "Turkey - Istanbul",
+        "vpnIso": "TR",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-TR-Istanbul-TCP.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "USA - New York",
+        "vpnIso": "US",
+        "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-US-New%20York-TCP.ovpn",
+        "vpnLocked": false
+      }
+    ]
+  },
+
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=your.package.name"
+  },
+
+  "AdsController": {
+    "BannerNetwork": "yandex",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork": "yandex",
+    "NativeNetwork": "yandex",
+    "AdInterval": 4,
+    "NativeAdRow": 5,
+    "AdPlacement": {
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "ApplovinKey": "YOUR_APPLOVIN_SDK_KEY",
+      "ApplovinBanner": "YOUR_APPLOVIN_BANNER_ID",
+      "ApplovinInterstitial": "YOUR_APPLOVIN_INTERSTITIAL_ID",
+      "ApplovinInterstitialHome": "YOUR_APPLOVIN_INTERSTITIAL_HOME_ID",
+      "ApplovinReward": "YOUR_APPLOVIN_REWARD_ID",
+      "ApplovinNative": "YOUR_APPLOVIN_NATIVE_ID",
+      "HuaweiAppId": "YOUR_HUAWEI_APP_ID",
+      "HuaweiBanner": "YOUR_HUAWEI_BANNER_ID",
+      "HuaweiInterstitial": "YOUR_HUAWEI_INTERSTITIAL_ID",
+      "HuaweiInterstitialHome": "YOUR_HUAWEI_INTERSTITIAL_HOME_ID",
+      "HuaweiReward": "YOUR_HUAWEI_REWARD_ID",
+      "HuaweiNative": "YOUR_HUAWEI_NATIVE_ID",
+      "YandexBanner": "R-M-16092397-1",
+      "YandexInterstitial": "R-M-16092397-2",
+      "YandexInterstitialHome": "R-M-16092397-2",
+      "YandexReward": "R-M-16092397-3",
+      "YandexNative": "R-M-16092397-4"
+      "YandexAppOpen": "demo-appopenad-yandex"
+    }
+  }
+}
