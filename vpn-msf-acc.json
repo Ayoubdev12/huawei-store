@@ -143,8 +143,8 @@
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork": "yandex",
     "NativeNetwork": "yandex",
-    "AdInterval": 4,
-    "NativeAdRow": 5,
+    "AdInterval": 2,
+    "NativeAdRow": 2,
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -163,11 +163,11 @@
       "HuaweiInterstitialHome": "YOUR_HUAWEI_INTERSTITIAL_HOME_ID",
       "HuaweiReward": "YOUR_HUAWEI_REWARD_ID",
       "HuaweiNative": "YOUR_HUAWEI_NATIVE_ID",
-      "YandexBanner": "R-M-16092397-1",
-      "YandexInterstitial": "R-M-16092397-2",
-      "YandexInterstitialHome": "R-M-16092397-2",
-      "YandexReward": "demo-rewarded-yandex",
-      "YandexNative": "R-M-16092397-4"
+      "YandexBanner": "R-M-19543757-1",
+      "YandexInterstitial": "R-M-19543757-3",
+      "YandexInterstitialHome": "R-M-19543757-3",
+      "YandexReward": "R-M-19543757-4",
+      "YandexNative": "R-M-19543757-2"
     }
   }
 }
