@@ -7,7 +7,7 @@
         "vpnName": "Andorra - Andorra la Vella",
         "vpnIso": "AD",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "UAE - Dubai",
