@@ -1,16 +1,16 @@
 {
-  "isEnabled": false,
-  "interstitialAdUnitId": "demo-interstitial-yandex",
-  "appOpenAdUnitId": "demo-appopenad-yandex",
+  "isEnabled": true,
+  "interstitialAdUnitId": "R-M-16778567-1",
+  "appOpenAdUnitId": "R-M-16778567-2",
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
   "showAdOnNavigation": true,
 
-  "homeUrl": "https://tinyzonetv.app/home/",
+  "homeUrl": "https://tinyzonetv.app/movies/",
   "allowedBaseUrl": "https://tinyzonetv.app/home/",
-  "moviesUrl": "https://tinyzonetv.app/home/",
-  "tvSeriesUrl": "https://tinyzonetv.app/home/",
+  "moviesUrl": "https://tinyzonetv.app/genre/action/",
+  "tvSeriesUrl": "https://tinyzonetv.app/tv-series/",
   
   "ForceUpdate": {
   "enabled": false,
