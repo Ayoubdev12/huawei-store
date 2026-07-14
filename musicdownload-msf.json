@@ -35,7 +35,7 @@
   "rate_app_enabled": true,
   "rate_trigger": "first_successful_playback",
   "rate_delay_seconds": 3,
-  "rate_first_session_only": true
+  "rate_first_session_only": true,
 
   "download_buttons_enabled": true,
   "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
