@@ -5,6 +5,7 @@
 
   "app_open_enabled": true,
   "interstitial_enabled": true,
+  "native_enabled": true,
 
   "show_on_search_click": true,
   "show_on_library_click": true,
