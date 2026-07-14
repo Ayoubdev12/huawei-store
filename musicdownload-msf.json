@@ -1,6 +1,6 @@
 {
-  "ads_enabled": false,
-  "ad_test_mode": false,
+  "ads_enabled": true,
+  "ad_test_mode": true,
   "provider": "yandex",
 
   "app_open_enabled": true,
