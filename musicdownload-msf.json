@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
   "ad_test_mode": true,
-  "provider": "yandex",
+  "provider": "admob",
 
   "app_open_enabled": true,
   "interstitial_enabled": true,
