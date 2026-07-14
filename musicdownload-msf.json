@@ -7,6 +7,9 @@
   "interstitial_enabled": true,
   "native_enabled": true,
 
+  "native_on_onboarding_enabled": true,
+  "native_on_language_screen_enabled": true,
+
   "show_on_search_click": true,
   "show_on_library_click": true,
   "show_on_download_click": true,
@@ -14,17 +17,20 @@
 
   "video_opens_for_ad": 2,
   "max_ads_per_session": 5,
-  "cooldown": 60,
+  "cooldown_seconds": 60,
 
   "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
   "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
   "yandex_native_ad_unit_id": "demo-native-app-yandex",
 
-  "admob_app_open_android": "",
-  "admob_app_open_ios": "",
-  "admob_interstitial_android": "",
-  "admob_interstitial_ios": "",
-  "admob_native_android": "",
+  "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
+  "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
+
+  "admob_interstitial_android": "ca-app-pub-3940256099942544/1033173712",
+  "admob_interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
+
+  "admob_native_android": "ca-app-pub-3940256099942544/2247696110",
+  "admob_native_ios": "ca-app-pub-3940256099942544/3986624511",
 
   "download_buttons_enabled": true,
   "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
