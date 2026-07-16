@@ -1,4 +1,5 @@
 {
   "newAppStatus": "of",
-  "appPackage": "com.your.newapp"
+  "appPackage": "com.your.newapp",
+  "showPlayNow": "off"
 }
