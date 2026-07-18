@@ -14,15 +14,15 @@
   "tvSeriesUrl": "https://net27.cc/",
 
   "admobAndroidAppOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-  "admobIosAppOpenAdUnitId": "",
   "admobAndroidInterstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-  "admobIosInterstitialAdUnitId": "",
   "admobAndroidBannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-  "admobIosBannerAdUnitId": "",
+  "admobAndroidNativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+
 
   "yandexAppOpenAdUnitId": "demo-appopenad-yandex",
   "yandexInterstitialAdUnitId": "demo-interstitial-yandex",
   "yandexBannerAdUnitId": "demo-banner-yandex",
+  "yandexNativeAdUnitId": "demo-native-content-yandex",
 
   "ForceUpdate": {
     "enabled": false,
