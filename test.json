@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
   "ad_test_mode": true,
-  "provider": "admob",
+  "provider": "yandex",
 
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
