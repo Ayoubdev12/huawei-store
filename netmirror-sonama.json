@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "ad_test_mode": true,
+  "ad_test_mode": false,
   "provider": "admob",
 
   "showAdOnMovieDetails": true,
