@@ -1,0 +1,56 @@
+{
+  "ads_enabled": false,
+  "ad_test_mode": false,
+  "provider": "yandex",
+
+  "app_open_enabled": true,
+  "interstitial_enabled": true,
+  "native_enabled": true,
+
+  "native_on_onboarding_enabled": true,
+  "native_on_language_screen_enabled": true,
+
+  "show_on_search_click": true,
+  "show_on_library_click": true,
+  "show_on_download_click": true,
+  "show_on_video_open": true,
+  
+  "native_on_exit_popup_enabled": true,
+  "music_home_native_enabled": true,
+  "music_home_native_every": 2,
+  "search_native_enabled": true, 
+  "search_native_every": 3,
+
+  "video_opens_for_ad": 2,
+  "max_ads_per_session": 5,
+  "cooldown_seconds": 30,
+
+  "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
+  "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
+  "yandex_native_ad_unit_id": "demo-native-app-yandex",
+
+  "admob_app_open_android": "ca-app-pub-5273946599432377/2457333440",
+  "admob_app_open_ios": "ca-app-pub-5273946599432377/2457333440",
+
+  "admob_interstitial_android": "ca-app-pub-5273946599432377/5986726361",
+  "admob_interstitial_ios": "ca-app-pub-5273946599432377/5986726361",
+
+  "admob_native_android": "ca-app-pub-3940256099942544/2247696110",
+  "admob_native_ios": "ca-app-pub-5273946599432377/5006061428",
+  
+  "rate_app_enabled": true,
+  "rate_trigger": "first_successful_playback",
+  "rate_delay_seconds": 3,
+  "rate_first_session_only": true,
+
+  "download_buttons_enabled": true,
+  "privacy_policy_url": "https://sites.google.com/view/ios-app-music/home"
+  "popup": {
+  "enabled": false,
+  "title": "New Update Available",
+  "message": "Please update the app to continue using the latest version.",
+  "image_url": "https://play-lh.googleusercontent.com/HCHAWhL0_Ofsj-p3jvE_gFO-jhuJnxZE7Sqsyf1cYsIu2KSRfCAWOxMn7bRw-RbEf0FpNNLf6-piGa-femUH=w480-h960-rw",
+  "button_text": "Update Now",
+  "button_url": "https://play.google.com/store/apps/details?id=com.onlinemusictubidy.tubestreamappmusic"
+}
+}
